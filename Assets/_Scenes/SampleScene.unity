@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.37311953, g: 0.38074014, b: 0.3587274, a: 1}
+  m_IndirectSpecularColor: {r: 0.37311992, g: 0.38074034, b: 0.35872713, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -221,10 +221,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b5df0c631dec2164fae57a79d6c5ccdf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _name: Juquinha
+  _name: Juquinhahh
   _life: 5
   _power: 3
-  _charImage: {fileID: 21300000, guid: dcbfacee43ce17e43a4e48a64253547e, type: 3}
+  _charImage: {fileID: 21300000, guid: d7e8da48acc72564db9797acd4380377, type: 3}
   _characterClass: 1
   _characterRace: 1
   _characterGender: 1

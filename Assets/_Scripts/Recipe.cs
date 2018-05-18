@@ -124,7 +124,7 @@ public class RecipeCustom : Editor {
         }
         GUILayout.EndVertical();
 
-        DrawDefaultInspector();
+        // DrawDefaultInspector();
     }
 }
 #endif
